@@ -8,7 +8,7 @@ package u1a2_shoppingfordevices;
 import java.util.Scanner;
 import java.text.*;
 /**
- *Jacob Lacey
+ *Jacob
  *Oct 2 2018
  *Calculate and output a pretax cost for their order, taxes, and final cost
  */
